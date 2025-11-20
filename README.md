@@ -1,10 +1,13 @@
 **VERSENYFELELŐS TANSZÉK**
+
 Mesterséges Intelligencia és Rendszertervezés Tanszék
 
 **VERSENYFELELŐS OKTATÓK**
+
 Alekszejenkó Levente, Hullám Gábor, Eredics Péter, Antal Péter
 
 **A VERSENY SZÖVEGES LEÍRÁSA**
+
 A kitűzött versenyfeladat
 a mesterséges intelligencia és a gépi tanulás tárgyköréhez kapcsolódó,
 de azok ismerete nélkül is megoldható kreatív programozási feladat. A
