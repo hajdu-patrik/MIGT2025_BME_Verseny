@@ -1,0 +1,123 @@
+// Map size
+31 19
+
+// Cell borders
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 . . 
+. 2 9 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 3 8 . 
+. 2 A 9 1 1 1 1 1 3 9 1 1 1 1 1 1 1 1 1 1 1 3 9 1 1 1 3 A 8 . 
+. 2 A 8 . . . . . 2 8 . . . . . . . . . . . 2 8 . . . 2 A 8 . 
+. 2 A 8 . . . . . 2 8 . . . . . . . . . . . 2 8 . . . 2 A 8 . 
+. 2 A C 4 4 . . . 2 8 . . 2 8 . 2 8 . . . . 2 8 . . . 2 A 8 . 
+. 2 A 9 1 3 8 . . 2 8 . . 2 8 . 2 8 . . . . 2 8 . . . 2 A 8 . 
+. 2 A 8 . 2 C . . 6 C . . 6 C 4 6 C . . 4 4 6 C . 4 4 6 E 8 . 
+. 2 A 8 . 2 9 . . 1 1 . . 1 1 1 1 1 . . 1 1 1 S . 1 1 1 1 X . 
+. 2 A C 4 6 8 . 4 4 . . 4 4 4 . . 4 4 4 . . 4 4 4 4 . 4 4 X . 
+. 2 A 9 1 1 . 2 9 1 . . 3 9 1 . . 3 9 1 . . 3 9 1 1 . 3 B 8 . 
+. 2 A 8 . . . 2 8 . . . . . . . . 2 8 . . . 2 8 . . . 2 A 8 . 
+. 2 A 8 . . . 2 8 . . . . . . . . 2 8 . . . 2 8 . . . 2 A 8 . 
+. 2 A 8 . . . 2 8 . . . 2 8 . . . . . . . . 2 8 . . . 2 A 8 . 
+. 2 A C 4 4 4 6 C 4 4 4 6 C 4 4 4 4 4 4 4 4 6 C 4 4 4 6 A 8 . 
+. 2 C 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 8 . 
+. . 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+// Floors
+
+// Obstacles
+Obstacle 15 3 junk20
+Obstacle 11 4 desk11
+Obstacle 12 4 desk11
+Obstacle 15 4 junk20
+Obstacle 18 4 desk11
+Obstacle 19 4 desk11
+Obstacle 20 4 desk10
+Obstacle 24 4 desk11
+Obstacle 25 4 desk11
+Obstacle 26 4 desk11
+Obstacle 4 5 desk11
+Obstacle 5 5 desk11
+Obstacle 6 5 desk11
+Obstacle 7 5 desk11
+Obstacle 8 5 desk11
+Obstacle 20 5 desk10
+Obstacle 24 5 desk10
+Obstacle 26 5 desk10
+Obstacle 10 6 desk11
+Obstacle 11 6 desk11
+Obstacle 12 6 desk11
+Obstacle 15 6 desk10
+Obstacle 17 6 junk20
+Obstacle 18 6 junk20
+Obstacle 20 6 desk10
+Obstacle 24 6 desk10
+Obstacle 26 6 desk10
+Obstacle 15 7 desk10
+Obstacle 20 7 desk10
+Obstacle 24 7 desk11
+Obstacle 25 7 desk11
+Obstacle 26 7 desk11
+Obstacle 4 8 junk20
+Obstacle 8 8 junk20
+Obstacle 12 9 junk20
+Obstacle 20 9 junk20
+Obstacle 9 10 junk20
+Obstacle 14 10 junk20
+Obstacle 17 10 junk20
+Obstacle 23 10 junk20
+Obstacle 4 12 desk10
+Obstacle 5 12 desk11
+Obstacle 6 12 desk10
+Obstacle 9 12 desk11
+Obstacle 10 12 desk11
+Obstacle 11 12 desk11
+Obstacle 14 12 desk11
+Obstacle 15 12 desk11
+Obstacle 16 12 desk11
+Obstacle 19 12 desk11
+Obstacle 20 12 desk11
+Obstacle 21 12 desk11
+Obstacle 24 12 desk11
+Obstacle 25 12 desk11
+Obstacle 26 12 desk11
+Obstacle 4 13 desk10
+Obstacle 6 13 desk10
+Obstacle 4 14 desk10
+Obstacle 5 14 desk11
+Obstacle 6 14 desk10
+Obstacle 24 14 desk11
+Obstacle 25 14 desk11
+Obstacle 26 14 desk11
+
+// Injureds
+Injured 25 5 29
+Injured 25 3 301
+Injured 26 3 109
+Injured 7 4 531
+Injured 5 4 126
+Injured 4 4 90
+Injured 4 15 789
+Injured 5 15 964
+Injured 3 13 359
+Injured 7 13 639
+Injured 9 13 686
+Injured 10 13 98
+Injured 11 13 28
+Injured 14 13 237
+Injured 15 13 895
+Injured 16 13 246
+Injured 19 13 705
+Injured 20 13 291
+Injured 21 13 284
+Injured 24 13 728
+Injured 25 13 922
+Injured 26 13 505
+Injured 21 4 552
+Injured 21 5 493
+Injured 21 6 293
+Injured 21 7 871
+Injured 12 5 181
+Injured 11 5 221
+Injured 11 3 63
+Injured 12 3 280
+Injured 4 9 705

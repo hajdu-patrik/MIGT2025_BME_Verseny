@@ -1,0 +1,60 @@
+// Map size
+15 20
+
+// Cell borders
+. . . . . . . . . . . . . . . 
+. . 4 4 4 4 4 4 . . . . . . . 
+. 2 9 1 1 1 1 3 C 4 4 4 4 . . 
+. 2 8 . . . . . 3 9 1 1 3 8 . 
+. 2 8 . . . . . 2 8 . . 2 8 . 
+. 2 8 . . . . . 2 8 . . 2 C 4 
+4 6 8 . . . . . 2 C . _ 6 D _ 
+5 7 C 4 4 4 . _ 6 9 . . 1 1 1 
+1 1 1 1 1 1 . . 1 . . . . . . 
+. . S . _ . . . . . . X . . . 
+4 4 4 4 4 . . 4 . . 4 4 4 4 4 
+5 7 9 1 1 . _ 9 _ . 3 D 5 5 5 
+1 3 8 . . . 2 8 . . 2 9 1 1 1 
+. 2 8 . . . 2 8 . . 2 8 . . . 
+. 2 8 . . . 2 8 . . 2 8 . . . 
+. 2 8 . . . 2 8 . . 2 8 . . _ 
+. 2 8 . . . 2 8 . . 2 8 . . . 
+. 2 C 4 4 4 6 C 4 4 6 8 . . . 
+. . 1 1 1 1 1 1 1 1 1 . . . . 
+. . . . . . . . . . . . . . . 
+
+// Floors
+Floor 6 10 1
+Floor 3 3 0
+Floor 10 4 0
+Floor 14 4 0
+Floor 18 4 0
+Floor 22 4 0
+Floor 6 15 0
+Floor 10 15 0
+Floor 21 15 0
+Floor 24 15 0
+
+// Obstacles
+Obstacle 4 3 desk11
+Obstacle 5 3 desk11
+Obstacle 10 4 desk11
+Obstacle 11 4 desk11
+Obstacle 3 13 desk10
+Obstacle 9 13 desk10
+Obstacle 3 14 desk10
+Obstacle 9 14 desk10
+Obstacle 3 15 desk10
+Obstacle 9 15 desk10
+
+// Injureds
+Injured 10 5 555
+Injured 11 5 127
+Injured 8 13 198
+Injured 8 14 935
+Injured 8 15 47
+Injured 4 13 466
+Injured 4 14 255
+Injured 4 15 681
+Injured 4 4 730
+Injured 5 4 13
