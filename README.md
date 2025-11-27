@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![AI](https://img.shields.io/badge/Domain-Multi--Agent_System-blueviolet?style=flat)
+![Strategy](https://img.shields.io/badge/Strategy-Hive_Mind_(Shared_Knowledge)-FF6F00?style=flat)
+![Optimization](https://img.shields.io/badge/Optimization-Resource_%26_Pathfinding-success?style=flat)
+![Communication](https://img.shields.io/badge/Constraint-Low_Bandwidth_Comm-critical?style=flat)
+![Competition](https://img.shields.io/badge/Event-BME_AI_Competition_2025-gold?style=flat&logo=trophy&logoColor=white)
 # Artificial Intelligence and Machine Learning Competition
 
 | Detail | Description |
