@@ -13,11 +13,6 @@
 
 ![Artificial Intelligence and Machine Learning Competition 3rd Place certificate by BME](https://github.com/hajdu-patrik/MIGT2025_BME_Competition/blob/main/MI%20verseny%20helyezés.jpg)
 
-| Detail | Description |
-| :--- | :--- |
-| **Date and Time** | Thursday, November 20, 2025, 17:00 – 21:00 (CET) |
-| **Location** | “MIGT2025” Microsoft Teams group |
-
 ---
 
 ## Overview
