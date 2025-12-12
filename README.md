@@ -40,8 +40,8 @@ The use of any resources is permitted to solve the task. Experienced **Java** or
 
 * **Core Requirements:** Programming proficiency, creativity, and knowledge of basic mathematical logical formalisms.
 * **Recommended Prior Knowledge:**
-    * Comprehensive understanding of the **Artificial Intelligence** course material (BME-MIT).
-    * Familiarity with the topics covered in **Machine Learning**, **Formal Methods**, or **Intelligent Distributed Systems** courses.
+* Comprehensive understanding of the **Artificial Intelligence** course material (BME-MIT).
+* Familiarity with the topics covered in **Machine Learning**, **Formal Methods**, or **Intelligent Distributed Systems** courses.
 
 The competition provides an excellent opportunity for those interested in efficient, algorithmic problem-solving in a computational environment.
 
@@ -52,9 +52,9 @@ The competition provides an excellent opportunity for those interested in effici
 * **Scenario:** Urban Search and Rescue (USAR).
 * **Challenge:** In the event of natural disasters, accidents, or conflict situations, rapid evacuation of an area and the search for survivors is critical. Modern robotic tools (drones, rescue robots) are deployed to assist in these efforts.
 * **The Goal:** To create the most efficient program system (**agent logic**) for autonomous machines that:
-    1.  Facilitates the quick execution of the rescue mission (locating and evacuating survivors).
-    2.  Minimizes communication between the machines (number of message exchanges).
-    3.  Optimizes resource utilization (energy, medicine) within a dedicated simulation environment.
+    1. Facilitates the quick execution of the rescue mission (locating and evacuating survivors).
+    2. Minimizes communication between the machines (number of message exchanges).
+    3. Optimizes resource utilization (energy, medicine) within a dedicated simulation environment.
 
 ---
 

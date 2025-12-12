@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RescueFramework Runner",
+            "request": "launch",
+            "mainClass": "rescueframework.RescueFramework",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "RescueFramework (Test with parameters)",
+            "request": "launch",
+            "mainClass": "rescueframework.RescueFramework",
+            "args": ["Default.txt", "1", "1", "2", "0", "1", "12345"],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
